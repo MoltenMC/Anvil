@@ -37,7 +37,7 @@ mavenPublishing {
     pom {
         name.set("anvil")
         description.set("Kotlin Anvil (MCA) file format handler for Minecraft Java Edition")
-        url.set("https://github.com/Agent0876/Anvil")
+        url.set("https://github.com/MoltenMC/Anvil")
 
         licenses {
             license {
@@ -55,9 +55,9 @@ mavenPublishing {
         }
 
         scm {
-            connection.set("scm:git:git://github.com/Agent0876/Anvil.git")
-            developerConnection.set("scm:git:ssh://github.com/Agent0876/Anvil.git")
-            url.set("https://github.com/Agent0876/Anvil")
+            connection.set("scm:git:git://github.com/MoltenMC/Anvil.git")
+            developerConnection.set("scm:git:ssh://github.com/MoltenMC/Anvil.git")
+            url.set("https://github.com/MoltenMC/Anvil")
         }
     }
 }
